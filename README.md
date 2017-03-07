@@ -1,9 +1,9 @@
 
 # donation-manifest
 
-Russian language donation-manifest: [текст манифеста (0.0.1)](https://github.com/dhilt/donation-manifest/blob/master/donation-manifest-ru.MD).
+Russian language donation-manifest: [текст манифеста (0.0.1)](https://github.com/dhilt/donation-manifest/blob/master/donation-manifest-ru.md)
 
-Russian language donation-manifest comments: [комментарии к манифесту (0.0.1)](https://github.com/dhilt/donation-manifest/blob/master/donation-manifest-comments-ru.MD).
+Russian language donation-manifest comments: [комментарии к манифесту (0.0.1)](https://github.com/dhilt/donation-manifest/blob/master/donation-manifest-comments-ru.md)
 
 
 (c) dhilt, 2017 – see [LICENSE](https://github.com/dhilt/donation-manifest/blob/master/LICENSE.md)
